@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phoneNumer: MyString
+  email: MyString
+  linkedId: 1
+  linkPrecedence: MyString
+  deletedAt: 2023-07-04 01:45:01
+
+two:
+  phoneNumer: MyString
+  email: MyString
+  linkedId: 1
+  linkPrecedence: MyString
+  deletedAt: 2023-07-04 01:45:01
